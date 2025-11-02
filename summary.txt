@@ -1,0 +1,7 @@
+=== Toyota KPI & Project Summary ===
+Years: last 10
+Latest Operating Margin: 9.98%
+Scenario: -1.0pp COGS, FX 10.0%
+Project Capex: 500.0 (JPY bn)
+NPV @ 8.0%: 132579291916446.17
+IRR: nan
